@@ -1,5 +1,7 @@
 package org.LLDCricBuzz.Player;
 
+import org.LLDCricBuzz.Team.Wicket;
+
 public class BattingScoreCard {
     public int totalRuns;
     public int totalBallsPlayed;
